@@ -27,7 +27,9 @@ exchange rate story. When the naira collapsed from ₦306 to
 - World Bank
 
 ## Dashboard
-[Link to Tableau Public — add after publishing]
+[https://public.tableau.com/app/profile/victor.okoye8453/viz/Book1_17746278514700/Dashboard1?publish=yes
+![Uploading image.png…]()
+]
 
 ## Author
 Victor Okoye | Data Analyst
